@@ -1,0 +1,6 @@
+{
+  "name": "KOBOSEC SIEM",
+  "description": "Production-shaped SOC and Service Desk training simulator with deterministic telemetry, enforced case lifecycle, blob evidence forensics, bounded AI coaching, and six customizable visual themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
